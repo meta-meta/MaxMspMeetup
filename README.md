@@ -2,7 +2,7 @@
 meeting notes and patches from MSP::Max/MSP Visual Programming in the Twin Cities
 
 ## 2017-8-5 build a birdcall synth
-from [Designing Sound](https://www.amazon.com/Designing-Sound-Press-Andy-Farnell-ebook/dp/B008H5QA04/ref=sr_1_1?ie=UTF8&qid=1502219883&sr=8-1&keywords=designing+sound) Derived from [PureData implementation](http://aspress.co.uk/sd/practical28.html)
+from [Designing Sound](https://www.amazon.com/Designing-Sound-Press-Andy-Farnell-ebook/dp/B008H5QA04/ref=sr_1_1?ie=UTF8&qid=1502219883&sr=8-1&keywords=designing+sound), derived from [PureData implementation](http://aspress.co.uk/sd/practical28.html)
 
 ### Birdcall Synth
 
