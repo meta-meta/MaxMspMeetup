@@ -36,4 +36,4 @@ from [Designing Sound](https://www.amazon.com/Designing-Sound-Press-Andy-Farnell
 * Gendy - stochastic synth
 
 #### complaints about max
-* no easy way to refactor
+* no easy way to refactor: If I change the "public API" (inlets/outlets) of a patch that is reused all over the place, what's the best way to ensure that usages get updated?
